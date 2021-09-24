@@ -2,7 +2,7 @@
 - 👀 I’m interested in 
 - 🌱 I’m currently learning Computer science
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me : maybe send one or two fries (and a beer)
 
 <!---
 Hilkensb/Hilkensb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
