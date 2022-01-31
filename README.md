@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hilkensb
-- 👀 I’m interested in ...
+- 👀 I’m interested in telefraging shamblers
 - 🌱 I’m currently learning Computer science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : maybe send one or two fries tray (and a beer)
